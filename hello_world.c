@@ -3,7 +3,12 @@
 int main(){
 
     // Bitwise opeprators
-    // 
+    // & = And
+    // | = Or
+    // ^ = Xor
+    // << left shift
+    // >> right shift
 
+    
 
 }
